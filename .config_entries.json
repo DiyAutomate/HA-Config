@@ -1,0 +1,14 @@
+[
+    {
+        "data": {
+            "bridge_id": "001788FFFE6D4B24",
+            "host": "192.167.0.10",
+            "username": "5wythRXEAKHc8ISM0is8wfCA5ILlonS3A8HnkyX2"
+        },
+        "domain": "hue",
+        "entry_id": "1b7bde177c634c64925abf20c1c776e1",
+        "source": "discovery",
+        "title": "TheLoft",
+        "version": 1
+    }
+]

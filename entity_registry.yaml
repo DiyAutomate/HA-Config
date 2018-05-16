@@ -1,0 +1,84 @@
+media_player.hall:
+  name:
+  platform: cast
+  unique_id: 71101d53-7b57-ed8e-4ebb-d28ab01704e4
+media_player.living_room_speaker:
+  name:
+  platform: cast
+  unique_id: c2952328-9649-ae8c-bbe0-8c1e2d7e4cfc
+media_player.loft_speakers:
+  name:
+  platform: cast
+  unique_id: 2c5af688-2eed-430f-a80a-e8d117df017d
+media_player.loft:
+  name:
+  platform: sonos
+  unique_id: RINCON_5CAAFD204AB001400
+media_player.under_tv_speaker:
+  name:
+  platform: sonos
+  unique_id: RINCON_5CAAFD2055BC01400
+media_player.bedroom:
+  name:
+  platform: sonos
+  unique_id: RINCON_B8E9375CF10201400
+media_player.office_speaker:
+  name:
+  platform: sonos
+  unique_id: RINCON_000E58C3718601400
+media_player.loft_2:
+  name:
+  platform: sonos
+  unique_id: RINCON_B8E937B8A8C601400
+light.pauls_light:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:10:54:f6:87-0b
+light.claires_light:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:52:bc:af-0b
+light.kitchen4:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:f3:44:b2-0b
+light.kitchen1:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:f3:25:40-0b
+light.window:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:01:1f:18:03-0b
+light.table:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:00:ed:ce:b1-0b
+light.office:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:10:54:f6:8a-0b
+light.kitchen5:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:f3:27:63-0b
+light.blood:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:55:fe:14-0b
+light.bar:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:15:fa:2a-0b
+light.kitchen2:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:e5:d1:f6-0b
+light.kitchen3:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:f3:44:f8-0b
+media_player.bathroom_speaker:
+  name:
+  platform: sonos
+  unique_id: RINCON_000E58FD0A2001400
