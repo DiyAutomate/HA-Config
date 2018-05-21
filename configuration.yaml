@@ -37,6 +37,22 @@ updater:
   # Optional, allows Home Assistant developers to focus on popular components.
   # include_used_components: true
 
+
+panel_iframe:
+  nodered:
+    title: 'Node-Red'
+    icon: 'mdi:nodejs'
+    url: 'http://192.167.0.61:1880'
+
+hue:
+  bridges:
+    - host: 192.167.0.10
+      filename: phue.conf
+      allow_unreachable: true
+      allow_hue_groups: false
+    
+
+
 # Discover some devices automatically
 discovery:
 
