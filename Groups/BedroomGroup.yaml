@@ -1,0 +1,7 @@
+kitchen lights:
+  icon: mdi:floor-lamp
+  name: Kitchen
+  entities:
+    - light.pauls_light
+    - light.claires_light
+    

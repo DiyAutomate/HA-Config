@@ -3,3 +3,6 @@
 /tts/*
 /deps/*
 /.cloud/*
+secrets.yaml
+.HA_VERSION
+.uuid

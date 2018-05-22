@@ -1,0 +1,9 @@
+kitchen lights:
+  icon: mdi:track-light
+  name: Kitchen
+  entities:
+    - light.kitchen1
+    - light.kitchen2
+    - light.kitchen3
+    - light.kitchen4
+    - light.kitchen5
